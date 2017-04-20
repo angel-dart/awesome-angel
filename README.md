@@ -1,11 +1,11 @@
 # awesome
 A curated list of awesome Angel plug-ins, apps, and resources.
 
-[Database Adapters](#database-adapters)
-[Plug-ins](#plug-ins)
-[Tutorials](#tutorials)
-[Companies using Angel in Production](#companies-using-angel-in-production)
-[Contributing](#contributing)
+* [Database Adapters](#database-adapters)
+* [Plug-ins](#plug-ins)
+* [Tutorials](#tutorials)
+* [Companies using Angel in Production](#companies-using-angel-in-production)
+* [Contributing](#contributing)
 
 # Database Adapters
 
