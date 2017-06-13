@@ -13,7 +13,7 @@ supplemented by a detailed
 Feel free to star :star: this repo! And while you're at, star the
 [main boilerplate](https://github.com/angel-dart/angel)! Many thanks!!!
 
-[![Demo video](images/angel_setup.PNG)](https://www.youtube.com/watch?v=BFPMOkLz3NI&index=1&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY)
+[![Demo video](angel_setup.PNG)](https://www.youtube.com/watch?v=BFPMOkLz3NI&index=1&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY)
 Check out how to set up a basic Angel project!
 
 ## Contributing
