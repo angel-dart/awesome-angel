@@ -42,12 +42,12 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 
 ### Tutorials
 * [Serving Static Files](https://medium.com/the-angel-framework/serving-static-files-with-the-angel-framework-2ddc7a2b84ae)
-* [Instant REST API's :lightning:](https://medium.com/the-angel-framework/instant-rest-apis-and-more-an-introduction-to-angel-services-b843f3187f67)
+* [Instant REST API's :fire:](https://medium.com/the-angel-framework/instant-rest-apis-and-more-an-introduction-to-angel-services-b843f3187f67)
 * [Using WebSockets](https://medium.com/the-angel-framework/using-websockets-with-angel-services-a7598ea9ab83)
 
 #### Video Tutorials
 * [Angel from Scratch](https://www.youtube.com/watch?v=ch73I4nUVKM&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=3)
-* [Angel + Angular2 :eye:](https://www.youtube.com/watch?v=O8tCXj_lljY&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=4) + [Article](https://dart.academy/using-angel-with-angular2/)
+* [Angel + Angular2](https://www.youtube.com/watch?v=O8tCXj_lljY&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=4) + [Article](https://dart.academy/using-angel-with-angular2/)
 
 ### Companies Using Angel in Production
 Nobody yet. Could you be the first? :fire:
