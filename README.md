@@ -13,6 +13,9 @@ supplemented by a detailed
 Feel free to star :star: this repo! And while you're at, star the
 [main boilerplate](https://github.com/angel-dart/angel)! Many thanks!!!
 
+[![Demo video](images/angel_setup.PNG)](https://www.youtube.com/watch?v=BFPMOkLz3NI&index=1&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY)
+Check out how to set up a basic Angel project!
+
 ## Contributing
 
 Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a PR. A huge thanks to all [contributors](https://github.com/angel-dart/awesome-angel/graphs/contributors)!!!
@@ -24,11 +27,27 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 * [Companies using Angel in Production](#companies-using-angel-in-production)
 * [Contributing](#contributing)
 
-## Database Adapters
+### Database Adapters
+* [MongoDB](https://github.com/angel-dart/mongo)
+* [RethinkDB](https://github.com/angel-dart/rethink)
+* [Database-Agnostic](https://github.com/angel-dart/query_builder)
+* [In-Memory](https://github.com/angel-dart/angel/wiki/In-Memory)
 
-## Plug-ins
+### Plug-ins
+* [Stateless Authentication](https://github.com/angel-dart/auth)
+* [Diagnostics and Logging](https://github.com/angel-dart/diagnostics)
+* [Static Server](https://github.com/angel-dart/static)
+* [WebSocket Support](https://github.com/angel-dart/websocket)
 
-## Tutorials
+### Tutorials
+* [Serving Static Files](https://medium.com/the-angel-framework/serving-static-files-with-the-angel-framework-2ddc7a2b84ae)
+* [Instant REST API's :lightning:](https://medium.com/the-angel-framework/instant-rest-apis-and-more-an-introduction-to-angel-services-b843f3187f67)
+* [Using WebSockets](https://medium.com/the-angel-framework/using-websockets-with-angel-services-a7598ea9ab83)
 
-## Companies Using Angel in Production
-Nobody yet. Could you be the first?
+#### Video Tutorials
+* [Angel from Scratch](https://www.youtube.com/watch?v=ch73I4nUVKM&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=3)
+* [Angel + Angular2 :eye:](https://www.youtube.com/watch?v=O8tCXj_lljY&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=4)
+  * [Article](https://dart.academy/using-angel-with-angular2/)
+
+### Companies Using Angel in Production
+Nobody yet. Could you be the first? :fire:
