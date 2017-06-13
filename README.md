@@ -1,3 +1,4 @@
+
 # Awesome Angel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome [Angel](https://angel-dart.github.io) plug-ins, apps, and resources.
 
@@ -14,6 +15,7 @@ Feel free to star :star: this repo! And while you're at, star the
 [main boilerplate](https://github.com/angel-dart/angel)! Many thanks!!!
 
 [![Demo video](angel_setup.PNG)](https://www.youtube.com/watch?v=BFPMOkLz3NI&index=1&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY)
+
 Check out how to set up a basic Angel project!
 
 ## Contributing
