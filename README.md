@@ -41,6 +41,8 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 * [WebSocket Support](https://github.com/angel-dart/websocket)
 
 ### Tutorials
+![Chat App](https://dart.academy/content/images/2017/07/conversation_small.PNG)
+* [Real-time Chat App with Angel and Flutter](https://dart.academy/building-a-real-time-chat-app-with-angel-and-flutter/)
 * [Serving Static Files](https://medium.com/the-angel-framework/serving-static-files-with-the-angel-framework-2ddc7a2b84ae)
 * [Instant REST API's :fire:](https://medium.com/the-angel-framework/instant-rest-apis-and-more-an-introduction-to-angel-services-b843f3187f67)
 * [Using WebSockets](https://medium.com/the-angel-framework/using-websockets-with-angel-services-a7598ea9ab83)
