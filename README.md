@@ -52,4 +52,7 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 * [Angel + Angular2](https://www.youtube.com/watch?v=O8tCXj_lljY&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=4) + [Article](https://dart.academy/using-angel-with-angular2/)
 
 ### Companies Using Angel in Production
-Nobody yet. Could you be the first? :fire:
+* [Auth HF](https://auth-hf.com)
+  * [Source code](https://github.com/auth-hf/auth-hf)
+
+Are you using Angel in the wild? Send a PR, and let us know! :fire:
