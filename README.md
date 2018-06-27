@@ -22,11 +22,15 @@ Check out how to set up a basic Angel project!
 Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a PR. A huge thanks to all [contributors](https://github.com/angel-dart/awesome-angel/graphs/contributors)!!!
 
 ## Contents
+* [Example Projects](#example-projects)
 * [Database Adapters](#database-adapters)
 * [Plug-ins](#plug-ins)
 * [Tutorials](#tutorials)
 * [Companies using Angel in Production](#companies-using-angel-in-production)
 * [Contributing](#contributing)
+
+### Example Projects
+* [Angel News - a Hacker News clone](https://github.com/angel-example/angel_news)
 
 ### Database Adapters
 * [MongoDB](https://github.com/angel-dart/mongo)
