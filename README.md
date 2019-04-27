@@ -13,7 +13,7 @@ supplemented by a detailed
 Feel free to star :star: this repo! And while you're at, star the
 [main boilerplate](https://github.com/angel-dart/angel)! Many thanks!!!
 
-[![Demo video](angel_setup_thumb.PNG)](https://www.youtube.com/watch?v=BFPMOkLz3NI&index=1&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY)
+[![Demo video](angel_setup_thumb.PNG)](https://www.youtube.com/watch?v=YePKsyvzBco&list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6&index=2&t=0s)
 
 Check out how to set up a basic Angel project!
 
@@ -33,30 +33,26 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 * [Angel News - a Hacker News clone](https://github.com/angel-example/angel_news)
 
 ### Database Adapters
+* [PostgreSQL ORM](https://github.com/angel-dart/orm)
 * [MongoDB](https://github.com/angel-dart/mongo)
 * [RethinkDB](https://github.com/angel-dart/rethink)
-* [Database-Agnostic](https://github.com/angel-dart/query_builder)
-* [In-Memory](https://github.com/angel-dart/angel/wiki/In-Memory)
 
 ### Plug-ins
-* [Stateless Authentication](https://github.com/angel-dart/auth)
-* [Diagnostics and Logging](https://github.com/angel-dart/diagnostics)
+* [JWT Authentication](https://github.com/angel-dart/auth)
 * [Static Server](https://github.com/angel-dart/static)
 * [WebSocket Support](https://github.com/angel-dart/websocket)
 
 ### Tutorials
-![Chat App](https://dart.academy/content/images/2017/07/conversation_small.PNG)
-* [Real-time Chat App with Angel and Flutter](https://dart.academy/building-a-real-time-chat-app-with-angel-and-flutter/)
-* [Serving Static Files](https://medium.com/the-angel-framework/serving-static-files-with-the-angel-framework-2ddc7a2b84ae)
-* [Instant REST API's :fire:](https://medium.com/the-angel-framework/instant-rest-apis-and-more-an-introduction-to-angel-services-b843f3187f67)
-* [Using WebSockets](https://medium.com/the-angel-framework/using-websockets-with-angel-services-a7598ea9ab83)
+* [Dependency Injection Patterns in Angel 2](https://thosakwe.com/dependency-injection-patterns-in-angel-2/)
 
 #### Video Tutorials
-* [Angel from Scratch](https://www.youtube.com/watch?v=ch73I4nUVKM&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=3)
-* [Angel + Angular2](https://www.youtube.com/watch?v=O8tCXj_lljY&list=PLl3P3tmiT-frEV50VdH_cIrA2YqIyHkkY&index=4) + [Article](https://dart.academy/using-angel-with-angular2/)
+* [Angel 2.0 Tutorial Playlist](https://www.youtube.com/playlist?list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6)
+* [Angel GraphQL Demo](https://www.youtube.com/watch?v=5x6S4kDODa8&list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6&index=5&t=0s)
 
 ### Companies Using Angel in Production
-* [Auth HF](https://auth-hf.com)
-  * [Source code](https://github.com/auth-hf/auth-hf)
+This is a non-exhaustive list of production applications *known* to be using Angel:
+
+* [CUVR](https://getcuvr.com)
+* [autistic.zone](http://autistic.zone/)
 
 Are you using Angel in the wild? Send a PR, and let us know! :fire:
