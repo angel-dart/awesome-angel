@@ -50,7 +50,8 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 * [Angel GraphQL Demo](https://www.youtube.com/watch?v=5x6S4kDODa8&list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6&index=5&t=0s)
 
 ### Companies Using Angel in Production
-This is a non-exhaustive list of production applications *known* to be using Angel:
+This is a non-exhaustive list of production applications *known* to be using Angel.
+At this time, only applications using Angel 2 are listed.
 
 * [CUVR](https://getcuvr.com)
 * [autistic.zone](http://autistic.zone/)
