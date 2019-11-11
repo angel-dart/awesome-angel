@@ -46,8 +46,9 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 * [Dependency Injection Patterns in Angel 2](https://thosakwe.com/dependency-injection-patterns-in-angel-2/)
 
 #### Video Tutorials
-* [Angel 2.0 Tutorial Playlist](https://www.youtube.com/playlist?list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6)
+* [Official Angel 2.0 Tutorial Playlist](https://www.youtube.com/playlist?list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6)
 * [Angel GraphQL Demo](https://www.youtube.com/watch?v=5x6S4kDODa8&list=PLl3P3tmiT-fqGCB2vSPq8HhpugEDNWUo6&index=5&t=0s)
+* [Pawan Kumar's Angel Series](https://www.youtube.com/watch?v=UzuecP3utk8&list=PLR2qQy0Zxs_VAUePvwLj7t7h6Ocb85A3H)
 
 ### Companies Using Angel in Production
 This is a non-exhaustive list of production applications *known* to be using Angel.
