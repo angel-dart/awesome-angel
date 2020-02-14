@@ -54,4 +54,8 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 This is a non-exhaustive list of production applications *known* to be using Angel.
 At this time, only applications using Angel 2 are listed.
 
+*The following two sites, previously listed here, are now offline:*
+* https://getcuvr.com
+* https://autistic.zone
+
 Are you using Angel in the wild? Send a PR, and let us know! :fire:
