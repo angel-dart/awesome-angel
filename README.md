@@ -33,6 +33,7 @@ Briefly read the [contribution guidelines](/CONTRIBUTING.md) before submitting a
 * [Angel News - a Hacker News clone](https://github.com/angel-example/angel_news)
 
 ### Database Adapters
+* [Firebase Firestore](https://github.com/netantho/angel_firestore)
 * [PostgreSQL ORM](https://github.com/angel-dart/orm)
 * [MongoDB](https://github.com/angel-dart/mongo)
 * [RethinkDB](https://github.com/angel-dart/rethink)
